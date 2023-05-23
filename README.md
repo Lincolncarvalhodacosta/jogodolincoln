@@ -1,2 +1,2 @@
-# jogodolincoln
-jogodolincoln
+# pongtwo
+Jogo pong no JavaScript
